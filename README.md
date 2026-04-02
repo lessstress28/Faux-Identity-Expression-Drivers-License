@@ -1,2 +1,2 @@
 # Faux-Identity-Expression-Drivers-License
-A Drivers License that allows more options for gender expression, unique characters in a name such as periods, apostrophes and more, pronouns, and lower case and upper case spelling rather than capitalizing the entire name. An individual has an option on how they want there name to be typed.
+A Drivers License that allows more options for gender expression, unique characters in a name, pronouns, and lower case and upper case.Individuals have more control on how they want there name to be spelled. Names will include a mix of lower case and upper case letters; and there is no limit on how long an individuals name can be. Free text will be the use case for all that I have mentioned.
